@@ -4,7 +4,7 @@ Passionate developer focused on backend architectures, high-performance web syst
 
 - 🌐 **Portfolio & Live Demos:** [humbertorandon.com](https://humbertorandon.com)
 - 💼 **Primary Stack:** PHP 8.x, Laravel, MySQL, C, Python, Linux/Docker
-- 📬 **Contact:** randbendhum@gmail.com
+- 📬 **Contact:** contact@humbertorandon.com
 - 📍 **Status:** Available for Full-Time Remote Roles (PST/EST/CET)
 
 ---
